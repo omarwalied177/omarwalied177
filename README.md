@@ -1,5 +1,3 @@
-Here's your enhanced GitHub profile with your actual projects integrated beautifully:
-
 # 🚀 **Omar Walid's GitHub Profile**  
 
 <div align="center">
