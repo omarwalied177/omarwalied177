@@ -75,7 +75,7 @@ I'm **Omar Walid**, a passionate developer who bridges the gap between machine l
 [![trophy](https://github-profile-trophy.vercel.app/?username=omarwalied177&theme=onedark&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
----
+
 
 ## 📫 **Connect With Me**
 <div align="center">
