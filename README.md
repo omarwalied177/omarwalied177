@@ -76,6 +76,7 @@ I'm **Omar Walid**, a passionate developer who bridges the gap between machine l
 
 </div>
 ---
+
 ## 📫 **Connect With Me**
 <div align="center">
   <a href="mailto:omarwalied373@gmail.com">
