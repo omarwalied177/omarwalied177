@@ -95,5 +95,5 @@ I'm **Omar Walid**, a passionate Machine Learning Engineer with strong full-stac
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=omarwalied177&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <p>🚀 Building the future of intelligent applications</p>
+  <p>🚀 Building intelligent applications</p>
 </div>
