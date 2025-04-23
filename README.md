@@ -2,17 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00F72D&background=0D111700&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+Developer;Game+Dev+Enthusiast;AI+%26+Creative+Coder" alt="Animated Header" />
 </div>
 
----
-
-## 🏆 **GitHub Trophies**
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarwalied177&theme=onedark&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 👨‍💻 **About Me**
 I'm **Omar Walid**, a passionate developer who bridges the gap between machine learning and creative development. I specialize in:
 - 🤖 Building intelligent ML systems
@@ -80,6 +69,13 @@ I'm **Omar Walid**, a passionate developer who bridges the gap between machine l
 
 ---
 
+## 🏆 **GitHub Trophies**
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=omarwalied177&theme=onedark&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+---
 ## 📫 **Connect With Me**
 <div align="center">
   <a href="mailto:omarwalied373@gmail.com">
